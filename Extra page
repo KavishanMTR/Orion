@@ -6,9 +6,9 @@
     <title> My E-commerce Store</title>
     <link rel="stylesheet" href="styles.css">
       <style>
-        /* .btn{
+         .btn{
             background-color: rgb(15, 96, 150) !important;
-        } */
+        } 
     </style>
 </head>
 <body>
